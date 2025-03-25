@@ -7,14 +7,36 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="80" alt="csharp logo"  />
-  <img width="180" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
-  <img width="180" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
+
+### 🎵 Canciones destacadas
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 25px 0;">
+
+<!-- Canción 1 - Unholy -->
+<div style="width: 30%; min-width: 150px; text-align: center;">
+  <img src="https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268" alt="Unholy" style="width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin: 12px 0 4px; font-size: 16px;">Unholy</h4>
+  <p style="margin: 0; font-size: 13px; color: #888;">Sam Smith, Kim Petras</p>
+  <a href="https://open.spotify.com/intl-es/track/7FwWRSAlhfyhbvybdfDUCe?si=1362e06ad8954419" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ESCUCHAR_EN_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="width: 100%; max-width: 200px; margin-top: 8px;">
+  </a>
 </div>
+
+<!-- Canción 2 - Flowers -->
+<div style="width: 30%; min-width: 150px; text-align: center;">
+  <img src="https://i.scdn.co/image/ab67616d00001e02a935e8f2e13c9f47a962a0f1" alt="Flowers" style="width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin: 12px 0 4px; font-size: 16px;">Flowers</h4>
+  <p style="margin: 0; font-size: 13px; color: #888;">Miley Cyrus</p>
+  <a href="https://open.spotify.com/intl-es/track/1AUyzuh7CIr1yDYPTOgQQL?si=c7fec7a598c64f65" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ESCUCHAR_EN_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="width: 100%; max-width: 200px; margin-top: 8px;">
+  </a>
+</div>
+
+<!-- Canción 3 - Calm Down -->
+<div style="width: 30%; min-width: 150px; text-align: center;">
+  <img src="https://i.scdn.co/image/ab67616d00001e02a3a7d7e7d3a9e7e3e0e3e3e0" alt="Calm Down" style="width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h4 style="margin: 12px 0 4px; font-size: 16
 
 ###
 <!-- CANCIONES SPOTIFY 
