@@ -25,7 +25,7 @@
 <!-- Canción 1 -->
 <div style="min-width: 160px; text-align: center;">
   <img src="crybaby album.jpg" width="140" style="border-radius:8px">
-  <div style="margin: 8px 0 4px; font-weight: 600;">Cry Baby</div>
+  <div style="margin: 8px 0 4px; font-weight: 600;">Sippy Cup</div>
   <div style="color: #666; font-size: 13px; margin-bottom: 8px;">Melanie Martinez</div>
   <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
     <img src="https://img.shields.io/badge/ESCUCHAR-1DB954?style=flat&logo=spotify" width="120">
@@ -54,3 +54,5 @@
 
 </div>
 </div>
+
+
