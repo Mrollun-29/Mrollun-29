@@ -17,9 +17,7 @@
 </div>
 
 ###
-<iframe src="https://open.spotify.com/embed/track/7FwWRSAlhfyhbvybdfDUCe?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe src="https://open.spotify.com/embed/track/7FwWRSAlhfyhbvybdfDUCe?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 <!---
