@@ -46,7 +46,20 @@
     <h4>Another Song</h4>
     <p style="font-size: 12px;">Melanie Martinez</p>
     <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
+      <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
+    </a>
+  </div>
 
+  <!-- Canción 3 -->
+  <div style="width: 30%; text-align: center;">
+    <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" style="width: 100px; height: auto;">
+    <h4>Another Song</h4>
+    <p style="font-size: 12px;">Melanie Martinez</p>
+    <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
+      <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
+    </a>
+  </div>
+</div>
 
 
 <!---
