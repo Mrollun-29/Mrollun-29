@@ -7,61 +7,50 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="80" alt="csharp logo"  />
+  <img width="180" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
+  <img width="180" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
+</div>
+
 <div align="center">
 
+## 🎵 Mis canciones favoritas
 
-###
-<!-- CANCIONES SPOTIFY 
-<p align="center">
-  <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="600">
-</p>
+<div style="display: inline-flex; justify-content: center; gap: 20px; flex-wrap: nowrap; width: 100%; overflow-x: auto; padding: 10px 0;">
 
-<p align="center">
+<!-- Canción 1 -->
+<div style="min-width: 160px; text-align: center;">
+  <img src="crybaby album.jpg" width="140" style="border-radius:8px">
+  <div style="margin: 8px 0 4px; font-weight: 600;">Cry Baby</div>
+  <div style="color: #666; font-size: 13px; margin-bottom: 8px;">Melanie Martinez</div>
   <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
-    <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
-  </a>
-</p>
--->
-
-
-
-#####################################
-### 🎵 Melanie Martinez Top Tracks
-[![Cry Baby](https://img.shields.io/badge/▶_Cry_Baby-1DB954?style=flat-square)](https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq) 
-[![Dollhouse](https://img.shields.io/badge/▶_Dollhouse-1DB954?style=flat-square)](https://open.spotify.com/track/6k5B6Yxz6JuxDq0yJSwd8z) 
-[![Pity Party](https://img.shields.io/badge/▶_Pity_Party-1DB954?style=flat-square)](https://open.spotify.com/track/3fo6DYGktjENCiagUeU9yH)
-
-<div align="center">
-
-### 🎵 Canciones destacadas
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 25px 0;">
-
-<!-- Canción 1 - Unholy -->
-<div style="width: 30%; min-width: 150px; text-align: center;">
-  <img src="https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268" alt="Unholy" style="width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h4 style="margin: 12px 0 4px; font-size: 16px;">Unholy</h4>
-  <p style="margin: 0; font-size: 13px; color: #888;">Sam Smith, Kim Petras</p>
-  <a href="https://open.spotify.com/intl-es/track/7FwWRSAlhfyhbvybdfDUCe?si=1362e06ad8954419" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ESCUCHAR_EN_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="width: 100%; max-width: 200px; margin-top: 8px;">
+    <img src="https://img.shields.io/badge/ESCUCHAR-1DB954?style=flat&logo=spotify" width="120">
   </a>
 </div>
 
-<!-- Canción 2 - Flowers -->
-<div style="width: 30%; min-width: 150px; text-align: center;">
-  <img src="https://i.scdn.co/image/ab67616d00001e02a935e8f2e13c9f47a962a0f1" alt="Flowers" style="width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h4 style="margin: 12px 0 4px; font-size: 16px;">Flowers</h4>
-  <p style="margin: 0; font-size: 13px; color: #888;">Miley Cyrus</p>
-  <a href="https://open.spotify.com/intl-es/track/1AUyzuh7CIr1yDYPTOgQQL?si=c7fec7a598c64f65" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ESCUCHAR_EN_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="width: 100%; max-width: 200px; margin-top: 8px;">
+<!-- Canción 2 -->
+<div style="min-width: 160px; text-align: center;">
+  <img src="k12.jpg" width="140" style="border-radius:8px">
+  <div style="margin: 8px 0 4px; font-weight: 600;">High School Sweethearts</div>
+  <div style="color: #666; font-size: 13px; margin-bottom: 8px;">Melanie Martinez</div>
+  <a href="https://open.spotify.com/track/7FwWRSAlhfyhbvybdfDUCe">
+    <img src="https://img.shields.io/badge/ESCUCHAR-1DB954?style=flat&logo=spotify" width="120">
   </a>
 </div>
 
-<!-- Canción 3 - Calm Down -->
-<div style="width: 30%; min-width: 150px; text-align: center;">
-  <img src="https://i.scdn.co/image/ab67616d00001e02a3a7d7e7d3a9e7e3e0e3e3e0" alt="Calm Down" style="width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h4 style="margin: 12px 0 4px; font-size: 16
-<!---
-Mrollun-29/Mrollun-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Canción 3 -->
+<div style="min-width: 160px; text-align: center;">
+  <img src="https://i.scdn.co/image/ab67616d00001e02a3e0b0609b29c2a1c61cb327" width="140" style="border-radius:8px">
+  <div style="margin: 8px 0 4px; font-weight: 600;">Milk of the Siren</div>
+  <div style="color: #666; font-size: 13px; margin-bottom: 8px;">Melanie Martinez</div>
+  <a href="https://open.spotify.com/track/1AUyzuh7CIr1yDYPTOgQQL">
+    <img src="https://img.shields.io/badge/ESCUCHAR-1DB954?style=flat&logo=spotify" width="120">
+  </a>
+</div>
+
+</div>
+</div>
