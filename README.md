@@ -29,7 +29,7 @@
 </p>
 
 #####################################
-<div style="display: flex; justify-content: space-between; width: 100%; padding: 20px; box-sizing: border-box;">
+<div style="display: flex; justify-content: space-between; width: 100%; padding: 20px; box-sizing: border-box; flex-wrap: nowrap;">
   <!-- Canción 1 -->
   <div style="width: 30%; text-align: center;">
     <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="150">
