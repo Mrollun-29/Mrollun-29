@@ -19,11 +19,11 @@
 ###
 
 
-[![Escuchar en Spotify](https://img.shields.io/badge/Spotify-Escuchar-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe)
 
 
 <p align="center">
-  <img src="URL_DE_LA_IMAGEN" alt="Cry Baby - Melanie Martinez" width="600">
+  <img src="[URL_DE_LA_IMAGEN](https://i.scdn.co/image/ab67616d0000b2734c52f772aa5f73528d83f3fb
+)" alt="Cry Baby - Melanie Martinez" width="600">
 </p>
 
 <p align="center">
