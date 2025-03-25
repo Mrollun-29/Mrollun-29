@@ -21,6 +21,17 @@
 
 [![Escuchar en Spotify](https://img.shields.io/badge/Spotify-Escuchar-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe)
 
+
+<p align="center">
+  <img src="URL_DE_LA_IMAGEN" alt="Cry Baby - Melanie Martinez" width="600">
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe">
+    <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
+  </a>
+</p>
+
 <!---
 Mrollun-29/Mrollun-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
