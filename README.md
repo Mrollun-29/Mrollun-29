@@ -29,10 +29,10 @@
 </p>
 
 #####################################
-<div style="display: flex; justify-content: space-between; width: 100%; padding: 20px; box-sizing: border-box; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: space-between; width: 100%; padding: 20px; box-sizing: border-box;">
   <!-- Canción 1 -->
-  <div style="width: 30%; text-align: center;">
-    <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="150">
+  <div style="flex: 1; text-align: center; margin-right: 10px;">
+    <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" style="max-width: 150px; height: auto;">
     <h4>Cry Baby</h4>
     <p style="font-size: 12px;">Melanie Martinez</p>
     <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
@@ -41,8 +41,8 @@
   </div>
 
   <!-- Canción 2 -->
-  <div style="width: 30%; text-align: center;">
-    <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="150">
+  <div style="flex: 1; text-align: center; margin-right: 10px;">
+    <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" style="max-width: 150px; height: auto;">
     <h4>Another Song</h4>
     <p style="font-size: 12px;">Melanie Martinez</p>
     <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
@@ -51,8 +51,8 @@
   </div>
 
   <!-- Canción 3 -->
-  <div style="width: 30%; text-align: center;">
-    <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="150">
+  <div style="flex: 1; text-align: center;">
+    <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" style="max-width: 150px; height: auto;">
     <h4>Another Song</h4>
     <p style="font-size: 12px;">Melanie Martinez</p>
     <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
@@ -60,6 +60,7 @@
     </a>
   </div>
 </div>
+
 
 <!---
 Mrollun-29/Mrollun-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
