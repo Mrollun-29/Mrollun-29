@@ -44,7 +44,7 @@
 
 <!-- Canción 3 -->
 <div style="min-width: 160px; text-align: center;">
-  <img src="https://i.scdn.co/image/ab67616d00001e02a3e0b0609b29c2a1c61cb327" width="140" style="border-radius:8px">
+  <img src="portals.jpg" width="140" style="border-radius:8px">
   <div style="margin: 8px 0 4px; font-weight: 600;">Milk of the Siren</div>
   <div style="color: #666; font-size: 13px; margin-bottom: 8px;">Melanie Martinez</div>
   <a href="https://open.spotify.com/track/1AUyzuh7CIr1yDYPTOgQQL">
