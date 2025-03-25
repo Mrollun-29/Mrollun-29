@@ -9,6 +9,30 @@
 ###
 <div align="center">
 
+
+###
+<!-- CANCIONES SPOTIFY 
+<p align="center">
+  <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="600">
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
+    <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
+  </a>
+</p>
+-->
+
+
+
+#####################################
+### 🎵 Melanie Martinez Top Tracks
+[![Cry Baby](https://img.shields.io/badge/▶_Cry_Baby-1DB954?style=flat-square)](https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq) 
+[![Dollhouse](https://img.shields.io/badge/▶_Dollhouse-1DB954?style=flat-square)](https://open.spotify.com/track/6k5B6Yxz6JuxDq0yJSwd8z) 
+[![Pity Party](https://img.shields.io/badge/▶_Pity_Party-1DB954?style=flat-square)](https://open.spotify.com/track/3fo6DYGktjENCiagUeU9yH)
+
+<div align="center">
+
 ### 🎵 Canciones destacadas
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 25px 0;">
@@ -37,28 +61,6 @@
 <div style="width: 30%; min-width: 150px; text-align: center;">
   <img src="https://i.scdn.co/image/ab67616d00001e02a3a7d7e7d3a9e7e3e0e3e3e0" alt="Calm Down" style="width: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h4 style="margin: 12px 0 4px; font-size: 16
-
-###
-<!-- CANCIONES SPOTIFY 
-<p align="center">
-  <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="600">
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
-    <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
-  </a>
-</p>
--->
-
-
-
-#####################################
-### 🎵 Melanie Martinez Top Tracks
-[![Cry Baby](https://img.shields.io/badge/▶_Cry_Baby-1DB954?style=flat-square)](https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq) 
-[![Dollhouse](https://img.shields.io/badge/▶_Dollhouse-1DB954?style=flat-square)](https://open.spotify.com/track/6k5B6Yxz6JuxDq0yJSwd8z) 
-[![Pity Party](https://img.shields.io/badge/▶_Pity_Party-1DB954?style=flat-square)](https://open.spotify.com/track/3fo6DYGktjENCiagUeU9yH)
-
 <!---
 Mrollun-29/Mrollun-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
