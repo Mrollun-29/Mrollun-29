@@ -17,7 +17,8 @@
 </div>
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0irc1j2t0vorko0k01mp6rwow&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7FwWRSAlhfyhbvybdfDUCe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 <!---
