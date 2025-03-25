@@ -17,7 +17,7 @@
 </div>
 
 ###
-<!-- CANCIONES SPOTIFY -->
+<!-- CANCIONES SPOTIFY 
 <p align="center">
   <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="600">
 </p>
@@ -27,40 +27,15 @@
     <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
   </a>
 </p>
+-->
+
+
 
 #####################################
-<div style="display: flex; justify-content: space-around; width: 100%; padding: 10px; box-sizing: border-box;">
-  <!-- Canción 1 -->
-  <div style="width: 30%; text-align: center;">
-    <img src="https://i.scdn.co/image/ab67616d00001e02a3e0b0609b29c2a1c61cb327" alt="Cry Baby" style="width: 80px; height: 80px; border-radius: 8px; object-fit: cover;">
-    <h4 style="margin: 8px 0 4px; font-size: 14px;">Cry Baby</h4>
-    <p style="margin: 0; font-size: 12px; color: #666;">Melanie Martinez</p>
-    <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Escuchar" style="width: 80px; margin-top: 6px;">
-    </a>
-  </div>
-
-  <!-- Canción 2 -->
-  <div style="width: 30%; text-align: center;">
-    <img src="https://i.scdn.co/image/ab67616d00001e02a3e0b0609b29c2a1c61cb327" alt="Dollhouse" style="width: 80px; height: 80px; border-radius: 8px; object-fit: cover;">
-    <h4 style="margin: 8px 0 4px; font-size: 14px;">Dollhouse</h4>
-    <p style="margin: 0; font-size: 12px; color: #666;">Melanie Martinez</p>
-    <a href="https://open.spotify.com/track/6k5B6Yxz6JuxDq0yJSwd8z" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Escuchar" style="width: 80px; margin-top: 6px;">
-    </a>
-  </div>
-
-  <!-- Canción 3 -->
-  <div style="width: 30%; text-align: center;">
-    <img src="https://i.scdn.co/image/ab67616d00001e02a3e0b0609b29c2a1c61cb327" alt="Pity Party" style="width: 80px; height: 80px; border-radius: 8px; object-fit: cover;">
-    <h4 style="margin: 8px 0 4px; font-size: 14px;">Pity Party</h4>
-    <p style="margin: 0; font-size: 12px; color: #666;">Melanie Martinez</p>
-    <a href="https://open.spotify.com/track/3fo6DYGktjENCiagUeU9yH" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Escuchar" style="width: 80px; margin-top: 6px;">
-    </a>
-  </div>
-</div>
-
+### 🎵 Melanie Martinez Top Tracks
+[![Cry Baby](https://img.shields.io/badge/▶_Cry_Baby-1DB954?style=flat-square)](https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq) 
+[![Dollhouse](https://img.shields.io/badge/▶_Dollhouse-1DB954?style=flat-square)](https://open.spotify.com/track/6k5B6Yxz6JuxDq0yJSwd8z) 
+[![Pity Party](https://img.shields.io/badge/▶_Pity_Party-1DB954?style=flat-square)](https://open.spotify.com/track/3fo6DYGktjENCiagUeU9yH)
 
 <!---
 Mrollun-29/Mrollun-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
