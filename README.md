@@ -28,41 +28,39 @@
   </a>
 </p>
 
+#####################################
 
-
-
-<div style="display: flex; justify-content: space-between; width: 100%; padding: 20px; box-sizing: border-box;">
+<div style="display: flex; justify-content: flex-end; width: 100%; padding: 20px; box-sizing: border-box;">
   <!-- Canción 1 -->
-  <div style="width: 30%; text-align: center;">
+  <div style="width: 20%; text-align: center; margin-right: 10px;">
     <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="100%">
-    <h3>Cry Baby</h3>
-    <p>Melanie Martinez</p>
+    <h4>Cry Baby</h4>
+    <p style="font-size: 12px;">Melanie Martinez</p>
     <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
       <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
     </a>
   </div>
 
   <!-- Canción 2 -->
-  <div style="width: 30%; text-align: center;">
+  <div style="width: 20%; text-align: center; margin-right: 10px;">
     <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="100%">
-    <h3>Another Song</h3>
-    <p>Melanie Martinez</p>
+    <h4>Another Song</h4>
+    <p style="font-size: 12px;">Melanie Martinez</p>
     <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
       <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
     </a>
   </div>
 
   <!-- Canción 3 -->
-  <div style="width: 30%; text-align: center;">
+  <div style="width: 20%; text-align: center;">
     <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="100%">
-    <h3>Another Song</h3>
-    <p>Melanie Martinez</p>
+    <h4>Another Song</h4>
+    <p style="font-size: 12px;">Melanie Martinez</p>
     <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
       <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify">
     </a>
   </div>
 </div>
-
 
 <!---
 Mrollun-29/Mrollun-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
