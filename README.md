@@ -19,11 +19,8 @@
 ###
 
 
-
-
 <p align="center">
-  <img src="[URL_DE_LA_IMAGEN](https://i.scdn.co/image/ab67616d0000b2734c52f772aa5f73528d83f3fb
-)" alt="Cry Baby - Melanie Martinez" width="600">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734c52f772aa5f73528d83f3fb" alt="Cry Baby - Melanie Martinez" width="600">
 </p>
 
 <p align="center">
