@@ -19,7 +19,7 @@
 ###
 <!-- CANCIONES SPOTIFY -->
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cfd46f36a3978c24100527aa" alt="Cry Baby - Melanie Martinez" width="600">
+  <img src="crybaby album.jpg" alt="Cry Baby - Melanie Martinez" width="600">
 </p>
 
 <p align="center">
