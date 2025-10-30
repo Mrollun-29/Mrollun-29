@@ -22,35 +22,7 @@
 
 <div style="display: inline-flex; justify-content: center; gap: 20px; flex-wrap: nowrap; width: 100%; overflow-x: auto; padding: 10px 0;">
 
-<!-- Canción 1 -->
-<div style="min-width: 160px; text-align: center;">
-  <img src="crybaby album.jpg" width="140" style="border-radius:8px">
-  <div style="margin: 8px 0 4px; font-weight: 600;">Sippy Cup</div>
-  <div style="color: #666; font-size: 13px; margin-bottom: 8px;">Melanie Martinez</div>
-  <a href="https://open.spotify.com/track/2e4jB31WcGsxKL1ByqdZCq">
-    <img src="https://img.shields.io/badge/ESCUCHAR-1DB954?style=flat&logo=spotify" width="120">
-  </a>
-</div>
 
-<!-- Canción 2 -->
-<div style="min-width: 160px; text-align: center;">
-  <img src="k12.jpg" width="140" style="border-radius:8px">
-  <div style="margin: 8px 0 4px; font-weight: 600;">High School Sweethearts</div>
-  <div style="color: #666; font-size: 13px; margin-bottom: 8px;">Melanie Martinez</div>
-  <a href="https://open.spotify.com/track/7FwWRSAlhfyhbvybdfDUCe">
-    <img src="https://img.shields.io/badge/ESCUCHAR-1DB954?style=flat&logo=spotify" width="120">
-  </a>
-</div>
-
-<!-- Canción 3 -->
-<div style="min-width: 160px; text-align: center;">
-  <img src="portals.jpg" width="140" style="border-radius:8px">
-  <div style="margin: 8px 0 4px; font-weight: 600;">Milk of the Siren</div>
-  <div style="color: #666; font-size: 13px; margin-bottom: 8px;">Melanie Martinez</div>
-  <a href="https://open.spotify.com/track/1AUyzuh7CIr1yDYPTOgQQL">
-    <img src="https://img.shields.io/badge/ESCUCHAR-1DB954?style=flat&logo=spotify" width="120">
-  </a>
-</div>
 
 </div>
 </div>
